@@ -1,0 +1,70 @@
+gene,p.value,rho,adj.p.value,GENENAME,GO_annotation,correlation
+IL10,3.85737799479852e-05,0.402460246024602,0.000483925602983814,interleukin 10,Cytokine; Secreted,Significant
+GZMA,6.66339731969641e-05,-0.336944802251801,0.000766290691765087,granzyme A,Secreted,Significant
+B2M,0.000119792779779082,-0.309341233879401,0.00127164643150102,beta-2-microglobulin,Secreted,Significant
+CD8A,0.000566326374662594,-0.28197417434208,0.00411331787912832,CD8a molecule,Secreted,Significant
+CXCL2,0.00231696509637146,0.315105651711542,0.0127896473319705,C-X-C motif chemokine ligand 2,Secreted; Chemokine,Significant
+TNFSF10,0.00280446699959597,-0.247071327350024,0.0138220159265801,TNF superfamily member 10,Cytokine; Secreted,Significant
+CD8B,0.00376192440518295,-0.243075474121324,0.0174815408149195,CD8b molecule,Secreted,Significant
+CXCL3,0.00665325681501704,0.284948759106063,0.028692170014761,C-X-C motif chemokine ligand 3,Secreted; Chemokine,Significant
+CCL20,0.0106795024632386,0.423166023166023,0.0409380927757481,C-C motif chemokine ligand 20,Secreted; Chemokine,Significant
+CALR,0.0172700459959308,-0.19373997908679,0.0644126039848229,calreticulin,Secreted,Not significant
+CCL24,0.0185194642937611,0.422983870967742,0.067254896645764,C-C motif chemokine ligand 24,Chemokine,Not significant
+TNFSF4,0.0221838354874654,-0.197690744273619,0.0784966486479546,TNF superfamily member 4,Cytokine,Not significant
+IL6,0.030465372530194,0.236610306773312,0.0977725909108551,interleukin 6,Cytokine; Secreted,Not significant
+CAMP,0.0426052901546262,0.233465481886535,0.125096383858264,cathelicidin antimicrobial peptide,Secreted,Not significant
+IL33,0.0488302079049731,0.521428571428571,0.134771373817726,interleukin 33,Cytokine; Secreted,Not significant
+GZMB,0.0607156635156172,-0.157285203059851,0.164289442454023,granzyme B,Secreted,Not significant
+CXCL13,0.0669505782117599,0.333870967741936,0.177676534485055,C-X-C motif chemokine ligand 13,Secreted; Chemokine,Not significant
+IL20,0.074847140040609,0.305322128851541,0.194885006143472,interleukin 20,Cytokine; Secreted,Not significant
+IL22,0.0879097555207257,0.335164835164835,0.220573568397457,interleukin 22,Cytokine; Secreted,Not significant
+XCL2,0.107297844857541,-0.180239385727191,0.2597737296551,X-C motif chemokine ligand 2,Secreted; Chemokine,Not significant
+CX3CL1,0.192612183946047,0.405594405594406,0.415320021633665,C-X3-C motif chemokine ligand 1,Secreted; Chemokine,Not significant
+TNFSF15,0.226671678896809,0.158210614059461,0.44838788971746,TNF superfamily member 15,Cytokine,Not significant
+CXCL11,0.247107602945972,0.19203413940256,0.480293650796397,C-X-C motif chemokine ligand 11,Secreted; Chemokine,Not significant
+LIF,0.260243349163914,0.154184704184704,0.495694955762731,LIF interleukin 6 family cytokine,Cytokine; Secreted,Not significant
+IFNB1,0.267456234363811,0.23,0.498769734354133,interferon beta 1,Cytokine; Secreted,Not significant
+OSM,0.271853003411084,0.094461142121082,0.500209526276396,oncostatin M,Cytokine; Secreted,Not significant
+IL11,0.295027250989738,-0.301098901098901,0.528750138137452,interleukin 11,Cytokine; Secreted,Not significant
+CCL1,0.348846243872153,0.333333333333333,0.587082703101917,C-C motif chemokine ligand 1,Secreted; Chemokine,Not significant
+CXCL12,0.346025368176469,0.188034188034188,0.587082703101917,C-X-C motif chemokine ligand 12,Secreted; Chemokine,Not significant
+XCL1,0.347938283528394,0.124137931034483,0.587082703101917,X-C motif chemokine ligand 1,Secreted; Chemokine,Not significant
+CCL22,0.383181130695995,0.156417112299465,0.628204326996665,C-C motif chemokine ligand 22,Secreted; Chemokine,Not significant
+IFNG,0.402377125436218,0.07979977449004,0.628204326996665,interferon gamma,Cytokine; Secreted,Not significant
+IL12A,0.405146268860168,0.0897115283012222,0.628204326996665,interleukin 12A,Cytokine; Secreted,Not significant
+IL1B,0.392452594840139,-0.0730282854461772,0.628204326996665,interleukin 1 beta,Cytokine; Secreted,Not significant
+IL24,0.395812375679698,-0.0714772316884993,0.628204326996665,interleukin 24,Cytokine; Secreted,Not significant
+TNFSF13,0.40219073875887,0.076435541485885,0.628204326996665,TNF superfamily member 13,Cytokine; Secreted,Not significant
+TGFB3,0.418431648575062,0.0706685302129136,0.634544697839105,transforming growth factor beta 3,Cytokine; Secreted,Not significant
+CXCL1,0.424998050327478,0.0805520552055205,0.637497075491216,C-X-C motif chemokine ligand 1,Secreted; Chemokine,Not significant
+CCL21,0.451196804369117,0.254545454545455,0.653251469386946,C-C motif chemokine ligand 21,Secreted; Chemokine,Not significant
+CXCL9,0.458676484243035,0.108061224489796,0.653251469386946,C-X-C motif chemokine ligand 9,Cytokine; Secreted; Chemokine,Not significant
+IL19,0.450416690041473,0.127548601232812,0.653251469386946,interleukin 19,Cytokine; Secreted,Not significant
+TGFB2,0.459169511090824,0.0797964143566623,0.653251469386946,transforming growth factor beta 2,Cytokine; Secreted,Not significant
+IFNA5,0.493714443178217,0.166666666666667,0.674889431582183,interferon alpha 5,Cytokine; Secreted,Not significant
+IL1A,0.492806369905076,0.10584918957012,0.674889431582183,interleukin 1 alpha,Cytokine; Secreted,Not significant
+IL18BP,0.532247884045754,0.0525993959092551,0.720100078414843,interleukin 18 binding protein,Secreted,Not significant
+TNFSF11,0.539868512035129,-0.0935441370223979,0.723318977289784,TNF superfamily member 11,Cytokine; Secreted,Not significant
+CCL2,0.559680776870606,-0.104946524064171,0.729007623643792,C-C motif chemokine ligand 2,Secreted; Chemokine,Not significant
+CXCL10,0.559962377581463,0.0677785372522215,0.729007623643792,C-X-C motif chemokine ligand 10,Secreted; Chemokine,Not significant
+CXCL8,0.551588200059686,0.0601500150015002,0.729007623643792,C-X-C motif chemokine ligand 8,Secreted; Chemokine,Not significant
+CXCL6,0.620550663675233,0.139285714285714,0.792925848029465,C-X-C motif chemokine ligand 6,Secreted; Chemokine,Not significant
+CXCL16,0.675274339028905,0.0351659834418455,0.839530259333234,C-X-C motif chemokine ligand 16,Secreted; Chemokine,Not significant
+TGFB1,0.68789754181126,-0.0330308013689497,0.840087263450919,transforming growth factor beta 1,Cytokine; Secreted,Not significant
+LEP,0.732977235409311,0.075098814229249,0.881853992345039,leptin,Secreted,Not significant
+CD70,0.759948400433892,0.0331705183349129,0.896349395383565,CD70 molecule,Cytokine,Not significant
+IFNE,0.758833070490857,0.115151515151515,0.896349395383565,interferon epsilon,Cytokine,Not significant
+CCL28,0.84453811921553,-0.0182200650794868,0.949925826084299,C-C motif chemokine ligand 28,Secreted; Chemokine,Not significant
+CCL8,0.846673018901223,0.0355571847507331,0.949925826084299,C-C motif chemokine ligand 8,Chemokine,Not significant
+CXCL5,0.82820691668985,-0.0188274314701005,0.949925826084299,C-X-C motif chemokine ligand 5,Secreted; Chemokine,Not significant
+CLCF1,0.856284704391659,-0.0160182441382512,0.952962009726201,cardiotrophin like cytokine factor 1,Cytokine; Secreted,Not significant
+TNFSF14,0.890352405235919,0.0119173703544678,0.982949055380455,TNF superfamily member 14,Cytokine,Not significant
+CCL13,1,0.5,1,C-C motif chemokine ligand 13,Secreted; Chemokine,Not significant
+CCL17,0.95,0.1,1,C-C motif chemokine ligand 17,Secreted; Chemokine,Not significant
+CCL19,1,0.5,1,C-C motif chemokine ligand 19,Secreted; Chemokine,Not significant
+CCL25,0.973350931712832,0.00717948717948718,1,C-C motif chemokine ligand 25,Secreted; Chemokine,Not significant
+IFNW1,0.970021444721725,0.00734149054505006,1,interferon omega 1,Cytokine,Not significant
+IL12B,0.92371228084435,0.0187192118226601,1,interleukin 12B,Cytokine; Secreted,Not significant
+IL36B,1,0.0285714285714286,1,interleukin 36 beta,Cytokine; Secreted,Not significant
+IL37,1,0.5,1,interleukin 37,Cytokine; Secreted,Not significant
+TNFSF8,0.955203566422598,0.00471827023551162,1,TNF superfamily member 8,Cytokine,Not significant
